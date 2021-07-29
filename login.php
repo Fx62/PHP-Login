@@ -20,7 +20,7 @@ session_start();
 <body>
 <div class="container">
     <form action="" method="post" name="Login_Form" class="form-signin">
-        <h2 class="form-signin-heading">Please sign in</h2>
+        <h2 class="form-signin-heading">Por favor iniciar sesión</h2>
         <label for="inputUsername" class="sr-only">Username</label>
         <input name="Username" type="username" id="inputUsername" class="form-control" placeholder="Username" required autofocus>
         <label for="inputPassword" class="sr-only">Password</label>
